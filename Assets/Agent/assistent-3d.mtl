@@ -1,0 +1,12 @@
+# Made in Blockbench 4.10.1
+newmtl m_ba9cde20-9e65-be6e-242c-f14df32af7cc
+map_Kd l_leg_t.png
+newmtl m_6c4724cb-a7cf-b332-64d0-c48f2653be41
+map_Kd r_leg_t.png
+newmtl m_57a986f8-1f71-c00d-0b13-1ba318c3e526
+map_Kd head-t.png
+newmtl m_d931085b-fe40-daf9-b384-38df3fd16e6d
+map_Kd l_hand_t.png
+newmtl m_e6867752-e84e-ad2a-307d-acb20b61e310
+map_Kd r_hand_t.png
+newmtl none
